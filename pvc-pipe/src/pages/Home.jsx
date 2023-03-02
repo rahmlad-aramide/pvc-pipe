@@ -1,5 +1,5 @@
-import React from "react";
-import { Hero, Navbar, Services } from "../components";
+import React from 'react';
+import { Hero, Navbar, Services } from '../components';
 
 const Home = () => {
   return (

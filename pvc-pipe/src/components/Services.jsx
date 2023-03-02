@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Services = () => {
   return (
@@ -56,7 +56,7 @@ const Services = () => {
         <div className="lg:mr-4 lg:w-1/2">
           <div className="text-3xl text-primary ">
             Deliver it to your door step.
-          </div>{" "}
+          </div>{' '}
           <br />
           <div className="mb-8 text-xl">
             We are offering mobile delivery services. Our despatch will come to
